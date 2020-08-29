@@ -21,6 +21,7 @@ export const about =()=>{
     <li>A CS student interested to create and work in cool tech.</li>
     <li>A hobbyist game developer.</li>
     <li>Love to travel and play sport.</li>
+    <li>Learning everyday</li>
     <br>`;
 } 
 export const projects =()=>{

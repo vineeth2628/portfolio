@@ -8,6 +8,7 @@
     padding : 10px;
 }
 
-.footer > a{
-    color: lightblue;
+.footer__link{
+    color: #4af626;
+    text-decoration: none;
 }
