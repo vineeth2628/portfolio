@@ -1,4 +1,5 @@
 import React from 'react';
+import '../Styles/CommandList.css';
 
 function CommandList({command,result}) {
     var parse = require('html-react-parser');
