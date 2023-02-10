@@ -43,7 +43,7 @@ const getFileData = async (fileName) => {
 
     data.docs.map((doc) => { files.push({ ...doc.data() }) });
 
-    if (files && files.length && files[0] && files[0].content)
+    if (files && files.length && files[0])
         return files[0];
     return null;
 
