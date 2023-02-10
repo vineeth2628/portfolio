@@ -3,7 +3,7 @@
 const linkStyle=`" color: inherit;text-decoration: none;"`;
 //css style property for strong text
 const strongStyle =`"padding:5px"`;
-
+ 
 
 
 const help =() =>{
